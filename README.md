@@ -2,16 +2,6 @@
 
 A production-ready movie ticket booking application with real-time seat selection, atomic seat locking, and concurrent booking support. Built with Next.js 15, AWS Lambda, PostgreSQL, and Redis.
 
-## Demo
-
-https://github.com/user-attachments/assets/demo-placeholder
-
-> **[View Demo Video](docs/Book%20my%20show%20concurrent%20booking%20demo_Rishabh.mp4)** - Watch the concurrent booking demonstration
-
-The demo showcases:
-- Real-time seat selection with concurrent users
-- Atomic seat locking preventing double bookings
-- Complete booking flow from movie selection to ticket generation
 
 ## Architecture
 
